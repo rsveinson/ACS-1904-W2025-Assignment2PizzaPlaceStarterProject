@@ -30,7 +30,7 @@ public class PizzaPizzaDriver{
          * for testing as you develop your classes.
          * be sure to comment them out again if you do use them
          */
-        PickUpOrder puOrder = new PickUpOrder("204-555-5555", "Clark Kent");
+        PickupOrder puOrder = new PickupOrder("204-555-5555", "Clark Kent");
         puOrder.addPizza(pizza);
         puOrder.addPizza(spPizza);
         
